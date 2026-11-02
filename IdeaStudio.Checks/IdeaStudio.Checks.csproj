@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup><ItemGroup><Compile Include="../IdeaStudio/Models.cs" Link="Models.cs"/><Compile Include="../IdeaStudio/BriefRules.cs" Link="BriefRules.cs"/><Compile Include="../IdeaStudio/TaskComposer.cs" Link="TaskComposer.cs"/><Compile Include="../IdeaStudio/Attribution.cs" Link="Attribution.cs"/><Compile Include="../IdeaStudio/GitReader.cs" Link="GitReader.cs"/></ItemGroup></Project>
+
+
+
+

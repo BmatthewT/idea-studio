@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+publish/
+dist/
+work/
+*.user
+*.suo
+*.idea.json
+.env
+.env.*
+settings.json
